@@ -1,5 +1,7 @@
 # Awesome Feature Flags
 
+![](https://github.com/pheature-flags/awesome-feature-flags/workflows/Awesome%20Bot/badge.svg)
+
 > A collection of awesome Feature Flags resources for development. Use your awesome Feature Flags. 
 > Inspired by the awesome lists.
 
