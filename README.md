@@ -20,7 +20,7 @@ this file.
 
 * :memo: [The pattern described in detail - Pete Hodgson](https://martinfowler.com/articles/feature-toggles.html)
 * :memo: [Feature flags Learning notes](https://learning-notes.mistermicheels.com/processes-techniques/feature-flags/)
-* :orange_book: [Effective Feature Management ebook](https://launchdarkly.com/effective-feature-management-ebook/)
+* :orange_book: [Effective Feature Management ebook](https://learn.launchdarkly.com/effective-feature-management/)
 * :orange_book: [Feature Flag Best Practices ebook](https://try.split.io/oreilly-feature-flag-best-practices)
 * :film_projector: [Feature Toggles: The Good, The Bad, and The Ugly - Andy Davies](https://www.youtube.com/watch?v=LZgQBSr36p8)
 * :memo: [Feature Flags explained with Laravel - Koldo Picaza](https://medium.com/php-fad/feature-flags-explained-with-laravel-b4b2edbf6a83)
