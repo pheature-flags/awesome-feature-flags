@@ -50,4 +50,8 @@ this file.
 * [jamesrwilliams/flagpole](https://github.com/jamesrwilliams/flagpole)
 * [friendsofcat/laravel-feature-flag](https://github.com/friendsofcat/laravel-feature-flag)
 
+#### Scala
+
+* [kanekotic/scala-local-toggle](https://github.com/kanekotic/scala-local-toggle)
+
 *Inspired by [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)*
