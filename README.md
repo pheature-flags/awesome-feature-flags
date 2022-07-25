@@ -14,6 +14,7 @@ this file.
 ## Contents
 
 * [Awesome Feature Flags Essential Resources](#awesome-feature-flags-essential-resources)
+* [Awesome Feature Flags Services](#awesome-feature-flags-services)
 * [Awesome Feature Flags Libraries](#awesome-feature-flags-libraries)
 
 ### Awesome Feature Flags Essential Resources
@@ -30,6 +31,11 @@ this file.
 * :memo: [Trunk based development Feature Flags - Paul Hammant](https://trunkbaseddevelopment.com/feature-flags/)
 * :memo: [Progressive experimentation with feature flags - Mike Jacobs & Ed Kaim](https://docs.microsoft.com/en-us/devops/operate/progressive-experimentation-feature-flags)
 
+### Awesome Feature Flags Services
+* [Togglee](https://www.togglee.com/): Open Source real time flags deployment without need of a server with SDK (ex. Github Gist).
+* [ConfigCat](https://configcat.com/): Propietary real time flags deployment SaSS & SDK, deploying flags into CDN.
+* [Unleash](https://www.getunleash.io/): Open Source real time flags deployment SaSS & SDK (integrated by GitLab CI).
+
 ### Awesome Feature Flags Libraries
 
 #### PHP
@@ -43,5 +49,9 @@ this file.
 * [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
 * [jamesrwilliams/flagpole](https://github.com/jamesrwilliams/flagpole)
 * [friendsofcat/laravel-feature-flag](https://github.com/friendsofcat/laravel-feature-flag)
+
+#### Scala
+
+* [kanekotic/scala-local-toggle](https://github.com/kanekotic/scala-local-toggle)
 
 *Inspired by [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)*
