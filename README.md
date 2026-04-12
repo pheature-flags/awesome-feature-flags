@@ -34,6 +34,7 @@ this file.
 ### Awesome Feature Flags Services
 * [Togglee](https://www.togglee.com/): Open Source real time flags deployment without need of a server with SDK (ex. Github Gist).
 * [ConfigCat](https://configcat.com/): Propietary real time flags deployment SaSS & SDK, deploying flags into CDN.
+* [DeployRamp](https://www.deployramp.com) - Propietary AI-powered platform that automatically wraps risky code changes in feature flags.
 * [Unleash](https://www.getunleash.io/): Open Source real time flags deployment SaSS & SDK (integrated by GitLab CI).
 
 ### Awesome Feature Flags Libraries
