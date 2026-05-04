@@ -36,6 +36,7 @@ this file.
 * [ConfigCat](https://configcat.com/): Propietary real time flags deployment SaSS & SDK, deploying flags into CDN.
 * [DeployRamp](https://www.deployramp.com) - Propietary AI-powered platform that automatically wraps risky code changes in feature flags.
 * [Unleash](https://www.getunleash.io/): Open Source real time flags deployment SaSS & SDK (integrated by GitLab CI).
+* [Mainline](https://mainline.dev): Feature flag inventory management with story mapping and delivery flow tracking.
 
 ### Awesome Feature Flags Libraries
 
