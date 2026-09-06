@@ -37,6 +37,7 @@ this file.
 * [DeployRamp](https://www.deployramp.com) - Propietary AI-powered platform that automatically wraps risky code changes in feature flags.
 * [Unleash](https://www.getunleash.io/): Open Source real time flags deployment SaSS & SDK (integrated by GitLab CI).
 * [Mainline](https://mainline.dev): Feature flag inventory management with story mapping and delivery flow tracking.
+* [Zenmanage](https://zenmanage.com): Proprietary feature management platform with progressive rollouts, targeting and segments, remote config, and audit history.
 
 ### Awesome Feature Flags Libraries
 
