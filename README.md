@@ -37,6 +37,7 @@ this file.
 * [DeployRamp](https://www.deployramp.com) - Propietary AI-powered platform that automatically wraps risky code changes in feature flags.
 * [Unleash](https://www.getunleash.io/): Open Source real time flags deployment SaSS & SDK (integrated by GitLab CI).
 * [Mainline](https://mainline.dev): Feature flag inventory management with story mapping and delivery flow tracking.
+* [Featureflip](https://featureflip.io): Proprietary real time flags deployment SaaS & SDKs, with a GitHub Action that opens a pull request per dead flag to delete its code path.
 
 ### Awesome Feature Flags Libraries
 
